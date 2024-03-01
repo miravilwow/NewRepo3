@@ -1,0 +1,11 @@
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.csproj.AssemblyReference.cache
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.Form1.resources
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.Properties.Resources.resources
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.csproj.GenerateResource.cache
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.csproj.CoreCompileInputs.cache
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\bin\Debug\Miravil.exe.config
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\bin\Debug\Miravil.exe
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\bin\Debug\Miravil.pdb
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.exe
+C:\Users\Miravil.220745\source\repos\Miravil\Miravil\obj\Debug\Miravil.pdb
